@@ -65,6 +65,24 @@ const Footer = () => {
           <p className="footer-copyright">
             © {currentYear} Adv Shivendra Kumar. All rights reserved.
           </p>
+          <p
+            className="footer-credit"
+            style={{
+              fontSize: '12px',
+              color: '#888',
+              marginTop: '6px',
+            }}
+          >
+            Designed by{' '}
+            <a
+              href="https://www.shiraai.in"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: '#888', textDecoration: 'none' }}
+            >
+              SHIRA AI
+            </a>
+          </p>
         </div>
       </div>
     </footer>

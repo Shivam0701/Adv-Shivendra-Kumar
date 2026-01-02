@@ -63,8 +63,10 @@ const LocationSection = () => {
               <div className="info-content">
                 <h3 className="info-title">Phone</h3>
                 <a href="tel:+919471801117" className="info-link">
-                  <p>+91 94718 01117</p>
-                  <p>+91 98350 47833</p>
+                  +91 9471801117<br></br>
+                </a>
+                 <a href="tel:++919835047833" className="info-link">
+                  +91 9835047833
                 </a>
               </div>
             </div>
